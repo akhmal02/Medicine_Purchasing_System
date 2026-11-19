@@ -1,0 +1,15 @@
+# Compiled Executables and Object files
+*.exe
+*.o
+*.obj
+*.out
+
+# IDE & Editor files
+.vscode/
+.vs/
+*.sln
+*.vcxproj*
+
+# OS files
+.DS_Store
+Thumbs.db
